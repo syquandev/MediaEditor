@@ -1,0 +1,6 @@
+framework module Pods_MediaEditorTests {
+  umbrella header "Pods-MediaEditorTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
